@@ -14,7 +14,7 @@ screen_height = 720
 screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption('Flappy Dragon')
 
-#define font
+#define fon
 font = pygame.font.SysFont('Callisto MT', 60)
 
 #define color
