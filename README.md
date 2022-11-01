@@ -1,6 +1,6 @@
 # Flappy Dragon
 
-Flappy Dragon is a 2D side-scrolling game inspired by the classic Flappy Bird, built using **Python** and **Pygame**. The player controls a dragon, navigating through obstacles to achieve the highest score possible.
+Flappy Dragon is a 2D side-scrolling game inspired by the classic Flappy Bird, built using **Python** and **Pygame**, The player controls a dragon, navigating through obstacles to achieve the highest score possible.
 
 ## Features
 
