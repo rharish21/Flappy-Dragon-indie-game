@@ -69,10 +69,6 @@ Building Flappy Dragon provided valuable insights into:
 
 Feel free to fork this repository and improve the game. If you make significant changes, consider opening a pull request!
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ---
 
 Enjoy the game and aim for a high score! 🐉🔥
