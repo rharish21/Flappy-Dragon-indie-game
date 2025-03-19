@@ -22,7 +22,7 @@ Flappy Dragon is a 2D side-scrolling game inspired by the classic Flappy Bird, b
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/flappy-dragon.git
+git clone https://github.com/rharish21/Flappy-Dragon-indie-game.git
 ```
 
 2. Navigate to the directory
